@@ -16,6 +16,12 @@
         <ListView
             android:id="@+id/lv_produtos"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="621dp" />
+
+        <Button
+            android:id="@+id/btnSalvar"
+            android:layout_width="match_parent"
+            android:layout_height="61dp"
+            android:text="Salvar" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
